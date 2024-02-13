@@ -1,4 +1,4 @@
-package org.example;
+package com.rasfood;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
